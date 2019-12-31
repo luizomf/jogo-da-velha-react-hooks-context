@@ -3,6 +3,8 @@
 Uma edição do tutorial de introdução ao React usando Context e React Hooks 
 (useState, useEffect e useContext).
 
+Versão final: https://jogo-da-velha-om.netlify.com/
+
 Tutorial original:
 https://pt-br.reactjs.org/tutorial/tutorial.html
 
