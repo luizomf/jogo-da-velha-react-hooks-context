@@ -51,6 +51,6 @@ p {
 }
 
 .winner {
-  font-size: 5vw;
+  font-size: calc(30px + .5vw);
   color: green;
 }
