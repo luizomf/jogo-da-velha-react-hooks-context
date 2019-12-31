@@ -18,7 +18,7 @@ export default function Board() {
     setHistory(newHistory);
 
     setSquares(history[index].squares);
-    setIsXNext(history[index].isNext);
+    setIsXNext(history[index].isXNext);
     setWhoIsWinner(history[index].whoIsWinner);
   }
 

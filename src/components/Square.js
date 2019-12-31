@@ -27,7 +27,7 @@ export default function Square({ value, index }) {
       ...history,
       {
         squares: [...squares],
-        isNext: !isXNext,
+        isXNext,
         whoIsWinner,
       },
     ]);
