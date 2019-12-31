@@ -1,5 +1,23 @@
-Uma edição do [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html) usando Context e React Hooks (useState, useEffect e useContext).
+## Jogo da velha com React Hooks e React Context
 
-Este repositório foi criado no vídeo [Jogo da velha com React Hooks e React Context](https://pt-br.reactjs.org/tutorial/tutorial.html) no YouTube como um conteúdo educacional.
+Uma edição do tutorial de introdução ao React usando Context e React Hooks 
+(useState, useEffect e useContext).
 
-Arquivos de configuração do ESLint e Prettier estão em https://github.com/luizomf/.eslintrc.js.
+Tutorial original:
+https://pt-br.reactjs.org/tutorial/tutorial.html
+
+Arquivos de configuração do ESLint e Prettier: 
+https://github.com/luizomf/.eslintrc.js.
+
+Repositório do vídeo:
+https://github.com/luizomf/jogo-da-velha-react-hooks-context
+
+Meus cursos:
+
+Curso de JavaScript
+https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/?referralCode=C6F07057B0999D3E36BA
+
+Curso de Python
+https://www.udemy.com/course/python-3-do-zero-ao-avancado/?referralCode=5DDCAD01311E2A9599B2
+
+#javascript #react #reactjs #usecontext #usestate #useeffect
